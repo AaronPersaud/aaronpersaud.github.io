@@ -1,0 +1,34 @@
+TODO
+
+- add bio
+- add work experience
+- determine layout
+- add projects 
+- update resume
+- add resume
+- add some nice styling
+- buy domain
+- title: var name = "Aaron Persaud"
+- when hovering over my name, tooltip comes up with a picture of me
+- model website after sublime text editor
+- add tabs at the top for other sections
+-sections (work experience, projects)
+
+- Side project IDEA
+- web version of stratego
+
+- pack 
+- find books
+- pencils
+- pens
+- paper
+
+
+TODO NEW
+
+- add info to projects (HOLD)
+- add info to work (HOLD)
+- add links to work companies (HOLD)
+- change title on resume
+- add background images (HOLD)
+- add message when email successfully sent
